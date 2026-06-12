@@ -2,10 +2,7 @@
 
 ## AI Coding Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://codex-usage-bluewall-github.vercel.app/api/svg">
-  <img alt="AI Coding Blue Wall" src="https://codex-usage-bluewall-github.vercel.app/api/svg">
-</picture>
+[![AI Coding Blue Wall](https://codex-usage-bluewall-github.vercel.app/api/svg?profile=zong1024)](https://codex-usage-bluewall-github.vercel.app/api/svg)
 
 ## About Me
 
