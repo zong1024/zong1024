@@ -2,7 +2,7 @@
 
 ## AI Coding Activity
 
-[![AI Coding Blue Wall](https://codex-usage-bluewall-github.vercel.app/api/svg?profile=zong1024&v=ff8e8b4)](https://codex-usage-bluewall-github.vercel.app/api/svg)
+[![AI Coding Blue Wall](https://codex-usage-bluewall-github.vercel.app/api/svg?profile=zong1024&v=261f107)](https://codex-usage-bluewall-github.vercel.app/api/svg)
 
 ## About Me
 
